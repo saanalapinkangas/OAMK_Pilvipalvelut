@@ -54,8 +54,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hei vierailija!
-    </section><p>Pilvipalvelut tehtävä 1 suoritettu.</p>
+      Hei vierailija!<br>Pilvipalvelut tehtävä 1 suoritettu.
+    </section>
   </body>
 </html>
 `
